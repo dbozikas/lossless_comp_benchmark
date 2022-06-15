@@ -1,0 +1,6 @@
+[submodule "sw_lib/qoi"]
+	path = sw_lib/qoi
+	url = https://github.com/phoboslab/qoi.git
+[submodule "sw_lib/stb"]
+	path = sw_lib/stb
+	url = https://github.com/nothings/stb.git

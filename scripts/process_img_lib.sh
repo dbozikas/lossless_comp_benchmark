@@ -68,7 +68,7 @@ echo "   |----------------------------------------------------------------------
 echo "   |--  BATCH CONVERTING IMAGES BETWEEN FORMATS AND REPORTING FINAL SIZE--|" >> img_lib.log
 echo "   |----------------------------------------------------------------------|" >> img_lib.log
 echo "" >> img_lib.log
-for the_dir in ../img_lib/*; do
+for the_dir in ../img_lib/*/; do
    echo " -- Procesing directory ${the_dir}" >> img_lib.log 2>&1
    echo "" >> img_lib.log
    bash compress_img_dir.sh -d ${the_dir} >> img_lib.log 2>&1
