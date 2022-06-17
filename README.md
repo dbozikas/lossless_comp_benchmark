@@ -1,7 +1,7 @@
 # <p align="center"> Lossless Image Compression Ratio Benchmark for JPEG-LS, PNG, QOI and JPEG2000
 
 ### Description
-This repository is created as an accompaniment to the Lossless Compression Efficiency of JPEG-LS, PNG, QOI and JPEG2000 – A Comparative Study whitepaper published by the author and CAST. The repository contains the scripts used to produce the results highlighted in the whitepaper, as well as the corresponding detailed compression ratio measurements.
+This repository is created as an accompaniment to the [Lossless Compression Efficiency of JPEG-LS, PNG, QOI and JPEG2000: A Comparative Study](https://www.cast-inc.com/blog/lossless-compression-efficiency-jpeg-ls-png-qoi-and-jpeg2000-comparative-study) white paper published by the author and CAST. The repository contains the scripts used to produce the results highlighted in the white paper, as well as the corresponding detailed compression ratio measurements.
 
 The following image sets were used for the measurements:
 - The image included in the [QOI benchmark suite](https://qoiformat.org/benchmark/), with some few exceptions.
